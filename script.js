@@ -2,13 +2,13 @@
 const projects = [
     {
         name: 'CLIENTS-VENDES',
-        description: 'A project for managing clients and sales.',
+        description: 'Manage clients and sales for a small business.',
         languages: ['HTML', 'CSS', 'JavaScript', 'Node.js', 'SQLite'],
         url: 'https://github.com/RogerPlaBallus/CLIENTS-VENDES'
     },
     {
         name: 'Exercise-Tracker',
-        description: 'An application to track exercises and fitness progress.',
+        description: 'Track exercises and fitness progress.',
         languages: ['HTML', 'CSS', 'JavaScript', 'Node.js', 'SQLite'],
         url: 'https://github.com/RogerPlaBallus/Exercise-Tracker'
     },
@@ -20,7 +20,7 @@ const projects = [
     },
     {
         name: 'MorseCodeTranslator',
-        description: 'A tool to translate text to and from Morse code.',
+        description: 'Translate text to and from Morse code with sound output.',
         languages: ['Java'],
         url: 'https://github.com/RogerPlaBallus/MorseCodeTranslator'
     },
@@ -32,7 +32,7 @@ const projects = [
     },
     {
         name: 'Password-generator',
-        description: 'A tool to generate secure passwords.',
+        description: 'Generate random passwords.',
         languages: ['HTML', 'CSS', 'JavaScript'],
         url: 'https://github.com/RogerPlaBallus/Password-Generator-JS'
     }
