@@ -26,7 +26,7 @@ const projects = [
     },
     {
         name: 'Ball Game',
-        description: 'Can you reach level 20? Click on the image.',
+        description: 'Can you reach level 20?',
         languages: ['HTML', 'CSS', 'JavaScript'],
         url: 'https://rogerplaballus.github.io/BALL-GAME/'
     },
