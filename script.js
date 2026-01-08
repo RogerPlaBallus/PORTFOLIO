@@ -25,17 +25,23 @@ const projects = [
         url: 'https://github.com/RogerPlaBallus/MorseCodeTranslator'
     },
     {
-        name: 'ToDoList',
-        description: 'A simple to-do list application for task management.',
-        languages: ['Java'],
-        url: 'https://github.com/RogerPlaBallus/To-Do-List'
+        name: 'Ball Game',
+        description: 'Can you reach level 20? Click on the image.',
+        languages: ['HTML', 'CSS', 'JavaScript'],
+        url: 'https://rogerplaballus.github.io/BALL-GAME/'
     },
     {
         name: 'Password-generator',
         description: 'Generate random passwords.',
         languages: ['HTML', 'CSS', 'JavaScript'],
         url: 'https://github.com/RogerPlaBallus/Password-Generator-JS'
-    }
+    },
+    {
+        name: 'ToDoList',
+        description: 'A simple to-do list application for task management.',
+        languages: ['Java'],
+        url: 'https://github.com/RogerPlaBallus/To-Do-List'
+    }    
 ];
 
 // Global language icons mapping
