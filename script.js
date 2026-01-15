@@ -16,7 +16,7 @@ const projects = [
         name: 'weather-app',
         description: 'A weather application providing current conditions and forecasts.',
         languages: ['HTML', 'CSS', 'JavaScript'],
-        url: 'https://github.com/RogerPlaBallus/weather-app'
+        url: 'https://rogerplaballus.github.io/weather-app/'
     },
     {
         name: 'MorseCodeTranslator',
