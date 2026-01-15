@@ -34,7 +34,7 @@ const projects = [
         name: 'Password-generator',
         description: 'Generate random passwords.',
         languages: ['HTML', 'CSS', 'JavaScript'],
-        url: 'https://github.com/RogerPlaBallus/Password-Generator-JS'
+        url: 'https://rogerplaballus.github.io/Password-Generator-JS/'
     },
     {
         name: 'ToDoList',
