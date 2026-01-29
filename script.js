@@ -7,13 +7,13 @@ const projects = [
         url: 'https://github.com/RogerPlaBallus/CLIENTS-VENDES'
     },
     {
-        name: 'Exercise tracker',
+        name: 'Exercise Tracker',
         description: 'Track exercises and fitness progress.',
         languages: ['HTML', 'CSS', 'JavaScript', 'Node.js', 'SQLite'],
         url: 'https://github.com/RogerPlaBallus/Exercise-Tracker'
     },
     {
-        name: 'Weather app',
+        name: 'weather app',
         description: 'A weather application providing current conditions and forecasts, click and try it!',
         languages: ['HTML', 'CSS', 'JavaScript'],
         url: 'https://rogerplaballus.github.io/weather-app/'
