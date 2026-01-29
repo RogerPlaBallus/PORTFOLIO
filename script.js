@@ -7,14 +7,14 @@ const projects = [
         url: 'https://github.com/RogerPlaBallus/CLIENTS-VENDES'
     },
     {
-        name: 'Exercise-Tracker',
+        name: 'Exercise tracker',
         description: 'Track exercises and fitness progress.',
         languages: ['HTML', 'CSS', 'JavaScript', 'Node.js', 'SQLite'],
         url: 'https://github.com/RogerPlaBallus/Exercise-Tracker'
     },
     {
-        name: 'weather-app',
-        description: 'A weather application providing current conditions and forecasts.',
+        name: 'Weather app',
+        description: 'A weather application providing current conditions and forecasts, click and try it!',
         languages: ['HTML', 'CSS', 'JavaScript'],
         url: 'https://rogerplaballus.github.io/weather-app/'
     },
@@ -26,13 +26,13 @@ const projects = [
     },
     {
         name: 'Ball Game',
-        description: 'Can you reach level 20?',
+        description: 'Can you reach level 20? Click and try it!',
         languages: ['HTML', 'CSS', 'JavaScript'],
         url: 'https://rogerplaballus.github.io/BALL-GAME/'
     },
     {
-        name: 'Password-generator',
-        description: 'Generate random passwords.',
+        name: 'Password generator',
+        description: 'Generate random passwords.Click and try it!',
         languages: ['HTML', 'CSS', 'JavaScript'],
         url: 'https://rogerplaballus.github.io/Password-Generator-JS/'
     },
