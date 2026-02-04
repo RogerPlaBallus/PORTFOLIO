@@ -14,7 +14,7 @@ const projects = [
     },
     {
         name: 'weather app',
-        description: 'A weather application providing current conditions and forecasts, click and try it!',
+        description: 'A weather application providing current conditions and forecasts.',
         languages: ['HTML', 'CSS', 'JavaScript'],
         url: 'https://rogerplaballus.github.io/weather-app/'
     },
@@ -26,13 +26,13 @@ const projects = [
     },
     {
         name: 'Ball Game',
-        description: 'Can you reach level 20? Click and try it!',
+        description: 'Can you reach level 20?',
         languages: ['HTML', 'CSS', 'JavaScript'],
         url: 'https://rogerplaballus.github.io/BALL-GAME/'
     },
     {
         name: 'Password generator',
-        description: 'Generate random passwords.Click and try it!',
+        description: 'Generate random passwords.',
         languages: ['HTML', 'CSS', 'JavaScript'],
         url: 'https://rogerplaballus.github.io/Password-Generator-JS/'
     },
