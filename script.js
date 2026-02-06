@@ -5,14 +5,14 @@ const projects = [
         description: 'Manage clients and sales for a small business.',
         languages: ['HTML', 'CSS', 'JavaScript', 'Node.js', 'SQLite'],
         url: 'https://github.com/RogerPlaBallus/CLIENTS-VENDES',
-        image: 'images/clients-vendes.png'
+        image: 'images/CLIENTS-VENDES.png'
     },
     {
         name: 'Exercise Tracker',
         description: 'Track exercises and fitness progress.',
         languages: ['HTML', 'CSS', 'JavaScript', 'Node.js', 'SQLite'],
         url: 'https://github.com/RogerPlaBallus/Exercise-Tracker',
-        image: 'images/exercise-tracker.png'
+        image: 'images/Exercise-Tracker.png'
     },
     {
         name: 'Weather App',
@@ -26,28 +26,28 @@ const projects = [
         description: 'Translate text to and from Morse code with sound output.',
         languages: ['Java'],
         url: 'https://github.com/RogerPlaBallus/MorseCodeTranslator',
-        image: 'images/morseCodeTranslator.png'
+        image: 'images/MorseCodeTranslator.png'
     },
     {
         name: 'Ball Game',
         description: 'Can you reach level 20?',
         languages: ['HTML', 'CSS', 'JavaScript'],
         url: 'https://rogerplaballus.github.io/BALL-GAME/',
-        image: 'images/ball-game.png'
+        image: 'images/Ball-Game.png'
     },
     {
         name: 'Password Generator',
         description: 'Generate random passwords.',
         languages: ['HTML', 'CSS', 'JavaScript'],
         url: 'https://rogerplaballus.github.io/Password-Generator-JS/',
-        image: 'images/password-generator.png'
+        image: 'images/Password-generator.png'
     },
     {
         name: 'To Do List',
         description: 'A simple to-do list application for task management.',
         languages: ['Java'],
         url: 'https://github.com/RogerPlaBallus/To-Do-List',
-        image: 'images/toDoList.png'
+        image: 'images/ToDoList.png'
     }    
 ];
 
