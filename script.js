@@ -1,46 +1,53 @@
 // Hardcoded projects array
 const projects = [
     {
-        name: 'CLIENTS-VENDES',
+        name: 'Clients and Sales Management',
         description: 'Manage clients and sales for a small business.',
         languages: ['HTML', 'CSS', 'JavaScript', 'Node.js', 'SQLite'],
-        url: 'https://github.com/RogerPlaBallus/CLIENTS-VENDES'
+        url: 'https://github.com/RogerPlaBallus/CLIENTS-VENDES',
+        image: 'images/clients-vendes.png'
     },
     {
         name: 'Exercise Tracker',
         description: 'Track exercises and fitness progress.',
         languages: ['HTML', 'CSS', 'JavaScript', 'Node.js', 'SQLite'],
-        url: 'https://github.com/RogerPlaBallus/Exercise-Tracker'
+        url: 'https://github.com/RogerPlaBallus/Exercise-Tracker',
+        image: 'images/exercise-tracker.png'
     },
     {
-        name: 'weather app',
+        name: 'Weather App',
         description: 'A weather application providing current conditions and forecasts.',
         languages: ['HTML', 'CSS', 'JavaScript'],
-        url: 'https://rogerplaballus.github.io/weather-app/'
+        url: 'https://rogerplaballus.github.io/weather-app/',
+        image: 'images/weather-app.png'
     },
     {
-        name: 'MorseCodeTranslator',
+        name: 'Morse Code Translator',
         description: 'Translate text to and from Morse code with sound output.',
         languages: ['Java'],
-        url: 'https://github.com/RogerPlaBallus/MorseCodeTranslator'
+        url: 'https://github.com/RogerPlaBallus/MorseCodeTranslator',
+        image: 'images/morseCodeTranslator.png'
     },
     {
         name: 'Ball Game',
         description: 'Can you reach level 20?',
         languages: ['HTML', 'CSS', 'JavaScript'],
-        url: 'https://rogerplaballus.github.io/BALL-GAME/'
+        url: 'https://rogerplaballus.github.io/BALL-GAME/',
+        image: 'images/ball-game.png'
     },
     {
-        name: 'Password generator',
+        name: 'Password Generator',
         description: 'Generate random passwords.',
         languages: ['HTML', 'CSS', 'JavaScript'],
-        url: 'https://rogerplaballus.github.io/Password-Generator-JS/'
+        url: 'https://rogerplaballus.github.io/Password-Generator-JS/',
+        image: 'images/password-generator.png'
     },
     {
-        name: 'ToDoList',
+        name: 'To Do List',
         description: 'A simple to-do list application for task management.',
         languages: ['Java'],
-        url: 'https://github.com/RogerPlaBallus/To-Do-List'
+        url: 'https://github.com/RogerPlaBallus/To-Do-List',
+        image: 'images/toDoList.png'
     }    
 ];
 
@@ -87,9 +94,8 @@ function displayProjects(repos) {
         link.target = '_blank';
 
         const img = document.createElement('img');
-        img.src = `images/${repo.name.replace(/\s+/g, '-').replace(/[^a-zA-Z0-9\-]/g, '')}.png`;
+        img.src = repo.image;
         img.alt = `${repo.name} screenshot`;
-        img.onerror = () => img.style.display = 'none';
 
         link.appendChild(img);
 

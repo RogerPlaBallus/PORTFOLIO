@@ -78,6 +78,11 @@ footer {
     text-align: center;
     padding: 1rem;
 }
+/* Stack Symbols inside every const project*/
+.project-content i {  
+    font-size: 2rem;
+    margin-right: 0.5rem;
+}
 
 .stack {
     display: flex;
